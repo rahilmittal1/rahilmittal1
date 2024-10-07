@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahilmittal1&show_icons=true)
+
 <!--
 **rahilmittal1/rahilmittal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
