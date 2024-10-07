@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahilmittal1&show_icons=true)
-
+[![Rahil's github stats](https://github-readme-stats.vercel.app/api?username=rahilmittal1&show_icons=true&count_private=true&theme=radical&line_height=35) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilmittal1&theme=radical&hide_title=true&exclude_repo=adpro)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rahilmittal1/rahilmittal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
